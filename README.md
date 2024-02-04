@@ -3,4 +3,4 @@ Helo. My Name is Michau. Coding random shit is my hobby. Make a todo list in C h
 
 Here is a list of my most used languages if you care
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmDeeTee&layout=donut-vertical&size_weight=0&count_weight=1&hide=Makefile,CMake)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmDeeTee&layout=donut-vertical&size_weight=0&count_weight=1&hide=Makefile,CMake&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
