@@ -1,4 +1,6 @@
-Helo. My Name is Michau. Coding random shit is my hobby. Make a todo list in C here, do a calculator in Ada there, and create a Linux distro from scratch in the meantime.
+Helo. My Name is Michau. Coding random shit is my hobby. 
+
+Make a todo list in C here, do a calculator in Ada there, and create a Linux distro from scratch in the meantime.
 
 
 Here is a list of my most used languages if you care
